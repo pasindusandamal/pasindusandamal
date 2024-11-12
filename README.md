@@ -25,7 +25,8 @@
 
   <summary>📊 GitHub Stats</summary>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=minimal&hide_border=true" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=pasindusandamal
+&show_icons=true&theme=minimal&hide_border=true" height="150">
   </div>
 
 
