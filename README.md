@@ -23,7 +23,7 @@
 <br>
 
 
-  <summary>📊 GitHub Stats</summary>
+ #### 📊 GitHub Stats
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=pasindusandamal
 &show_icons=true&theme=minimal&hide_border=true" height="150">
