@@ -19,4 +19,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
 </div>
 <br>
+
 ![snake gif](https://github.com/pasindusandamal/pasindusandamal/blob/output/github-snake.svg)
